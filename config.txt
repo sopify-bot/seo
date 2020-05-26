@@ -1,0 +1,8 @@
+test10:doman=www.shanghai.gov.cn;searchWords=上海;bigWord=100;	
+
+#############0搜狗1是360，2是百度#######2月6日最后修改时间...#的配置
+ipChange=0
+path=/home/sougou/log
+chromeCatchPath=/home/sougou/chrome
+sougou-360=0
+cookie=
