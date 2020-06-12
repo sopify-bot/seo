@@ -55,7 +55,13 @@ public class Baidu {
                 String item= L.shenChoose(stringList);
                 doman= RegexParse.baseParse(item,"doman=([\\S]*?);",1);
                 searchwords= RegexParse.baseParse(item,"searchWords=([\\S]*?);",1);
+                /**
+                 * 这个地方会空指针,并不是程序的问题，而是我并没有开放百度的参数;
+                 * */
                 String url=null;
+                System.out.println("==============================================================================");
+                System.err.println("这个地方会空指针,并不是程序的问题，而是我并没有开放百度的参数;如果需要加群了解;或者捐赠了解");
+                System.out.println("==============================================================================");
                 System.out.println("当前准备运行的是:"+doman+">>"+searchwords+">>"+url);
                 if(item!=null&&doman!=null){
                         init();
