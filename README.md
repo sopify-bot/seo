@@ -23,7 +23,7 @@
 
   
   
-  **[获取最新版本程序源码+文档+快排参数](http://www.hxdwe.cn:8001/product/seo)**
+
 
 ##### 限制：
 
@@ -112,7 +112,7 @@ window环境&mac环境：
 
 交流QQ群：712901367 
 
-[捐赠](http://www.hxdwe.cn:8001/product/seo)
+
 
 参考资料：
 jxbroser文档 https://www.kancloud.cn/neoman/ui/797864
